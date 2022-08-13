@@ -1,8 +1,6 @@
 # XRI-VR-Vorlage
 
-Unity template for VR projects.
-
-Unity Versionen: Ab 2020 LTS
+Unity Versionen: Ab 2021 LTS
 
 Basiert auf diesem YouTube Tutorial: https://www.youtube.com/watch?v=AzFycOlyhzA
 
